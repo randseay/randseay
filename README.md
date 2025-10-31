@@ -4,7 +4,7 @@ My name is Rand, and I am a husband, father, and front-end engineer. I love coll
 
 ## ✨ A Little About Me
 
-I'm the Lead Frontend Engineer at [Dispel](https://dispel.com/). I was formerly with [Google Cloud](https://cloud.google.com/) at both [BigQuery](https://cloud.google.com/bigquery) and [Kaggle](https://kaggle.com/), and have been with multiple successful startups over the course of my engineering career that started in 2012.
+I'm a Staff Frontend Engineer with [ngrok](https://ngrok.com). I was formerly with [Dispel](https://dispel.com/) and [Google Cloud](https://cloud.google.com/) at both [BigQuery](https://cloud.google.com/bigquery) and [Kaggle](https://kaggle.com/), and have been with multiple successful startups over the course of my engineering career that started in 2012.
 
 My wife and I and our three kids are in the greater Portland area, and love the Pacific Northwest. I enjoy woodworking, cooking, and playing basketball.
 
